@@ -49,12 +49,6 @@ int main() {
     nums.push_back(32);
 
     QuickSort(nums, 0 , nums.size() - 1);
-
-    for (int i = 0; i < nums.size(); i++)
-    {
-        std::cout<<nums[i]<<std::endl;
-    }
-
-    std::cout << "Hello, World!" << std::endl;
+    
     return 0;
 }
