@@ -1,6 +1,6 @@
 # algorithms
-# Solving algorithm design questions
-# Quick Sort
+Solving algorithm design questions
+Quick Sort
 
 #include <iostream>
 #include <vector>
